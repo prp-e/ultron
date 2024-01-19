@@ -1,5 +1,5 @@
 # Ultron
 
 <p align="center">
- placeholder
+ <img src="ultron.png">
 </p>
